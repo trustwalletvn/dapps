@@ -1,5 +1,10 @@
 # home.trustwallet.vn
 
+Để chạy cái này các bạn nên tạo 1 acc miễn phí tại
+netlify.com
+Nhanh gọn nhẹ
+
+
 ## Contributing
 
 ### Managing featured dapps
